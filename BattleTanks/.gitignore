@@ -2,6 +2,7 @@
 .vs/
 *.vc.db
 *.vc.opendb
+*.ipch
 
 # Compiled Object files
 *.slo
@@ -47,6 +48,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+Content/StarterContent/*
 
 # Builds
 Build/*
